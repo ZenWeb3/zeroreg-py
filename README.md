@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://pypi.org/project/zeroreg/"><img src="https://img.shields.io/pypi/v/zeroreg?style=flat-square&color=000&labelColor=000" alt="PyPI version" /></a>
   <a href="https://pypi.org/project/zeroreg/"><img src="https://img.shields.io/pypi/dm/zeroreg?style=flat-square&color=000&labelColor=000" alt="PyPI downloads" /></a>
-  <a href="https://github.com/yourusername/zeroreg-py/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-000?style=flat-square&labelColor=000" alt="license" /></a>
+  <a href="https://github.com/zenweb3/zeroreg-py/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-000?style=flat-square&labelColor=000" alt="license" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/pypi/pyversions/zeroreg?style=flat-square&color=000&labelColor=000" alt="python versions" /></a>
 </p>
 
